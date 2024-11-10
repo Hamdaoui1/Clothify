@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736905207914",
+    "project_id": "vitrine-8d284",
+    "storage_bucket": "vitrine-8d284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736905207914:android:4e781f099c575d31a6ea13",
+        "android_client_info": {
+          "package_name": "com.example.vitrine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCculN92aX6bszucI-x98rUTrrKtpuZ50k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
